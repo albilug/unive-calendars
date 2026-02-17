@@ -2,27 +2,27 @@ import requests
 
 COURSES = {
     "quantum1.ics": (
-        "⚛️ Meccanica Quantistica – Mod. 1",
+        "⚛️ Q.Mod. 1",
         "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510134",
     ),
     "quantum2.ics": (
-        "⚛️ Meccanica Quantistica – Mod. 2",
+        "⚛️   Mod.22",
         "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510135",
     ),
     "radiation.ics": (
-        "☢️ Interazione Radiazione Materia",
+        "☢️Rad-Mat",
         "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510154",
     ),
     "innovation.ics": (
-        "🚀 Imprenditorialità e Innovazione",
+        "🚀 Impr. & Inn.",
         "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510137",
     ),
     "electronics.ics": (
-        "🔌 Circuiti e Misure Elettroniche – Mod. 1",
+        "🔌 CME",
         "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510152",
     ),
     "lab_electronics.ics": (
-        "🔌🧪 Laboratorio di Circuiti e Misure Elettroniche",
+        "🔌🧪 Lab CME",
         "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510150",
     ),
 }
