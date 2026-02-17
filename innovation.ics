@@ -1,0 +1,144 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:IMPRENDITORIALITÀ E INNOVAZIONE [CT0610]
+DESCRIPTION:IMPRENDITORIALITÀ E INNOVAZIONE [CT0610]
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+DTEND:20260305T171500
+UID:6994718f2d895
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260305T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260312T171500
+UID:6994718f2d93b
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260312T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260319T171500
+UID:6994718f2d993
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260319T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260326T171500
+UID:6994718f2d9e3
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260326T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260402T171500
+UID:6994718f2da30
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260402T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260409T171500
+UID:6994718f2da7d
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260409T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260416T171500
+UID:6994718f2dac9
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260416T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260423T171500
+UID:6994718f2db15
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260423T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260430T171500
+UID:6994718f2db60
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260430T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260507T171500
+UID:6994718f2dbac
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260507T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260514T171500
+UID:6994718f2dbf8
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260514T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260519T190000
+UID:6994718f2dc44
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 2 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260519T173000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260529T153000
+UID:6994718f2dc8f
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260529T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260604T171500
+UID:6994718f2dce4
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260604T154500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260611T171500
+UID:6994718f2dd30
+DTSTAMP:20260217T134759
+LOCATION:Aula Epsilon 1 Campus scientifico via Torino (edificio Epsilon)
+SUMMARY:🚀 Imprenditorialità e Innovazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510137
+DTSTART:20260611T154500
+END:VEVENT
+END:VCALENDAR
