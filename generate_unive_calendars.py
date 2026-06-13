@@ -78,6 +78,13 @@ def write_calendar(filename, lines):
     tmp_path.replace(path)
 
 
+def is_transient(exc):
+    """Connection/timeout errors are transient outages (typically unive.it
+    dropping connections from GitHub's cloud IPs). HTTP errors and invalid
+    content mean the source actually changed and must be surfaced."""
+    return isinstance(exc, (requests.ConnectionError, requests.Timeout))
+
+
 def download_with_retries(session, filename, title, url):
     last_error = None
     for attempt in range(1, MAX_ATTEMPTS + 1):
@@ -86,7 +93,7 @@ def download_with_retries(session, filename, title, url):
             lines = validate_calendar(text)
             write_calendar(filename, rename_summary(lines, title))
             print(f"{filename}: updated")
-            return True
+            return "updated", None
         except (requests.RequestException, ValueError) as exc:
             last_error = exc
             print(
@@ -96,28 +103,45 @@ def download_with_retries(session, filename, title, url):
             if attempt < MAX_ATTEMPTS:
                 time.sleep(RETRY_DELAY_SECONDS * attempt)
 
-    if Path(filename).exists():
+    if is_transient(last_error) and Path(filename).exists():
         print(
-            f"{filename}: keeping existing file after repeated download failures",
+            f"{filename}: keeping existing file after transient connection "
+            f"failures: {last_error}",
             file=sys.stderr,
         )
-        return False
+        return "transient", last_error
 
-    raise RuntimeError(f"{filename}: cannot generate file: {last_error}")
+    # Real problem (bad URL, non-ICS response) or no existing file to fall
+    # back on: report it so the workflow fails and we get notified.
+    return "content", last_error
 
 
 def main():
-    skipped = []
+    transient_skipped = []
+    failures = []
     with requests.Session() as session:
         for filename, (title, url) in COURSES.items():
-            updated = download_with_retries(session, filename, title, url)
-            if not updated:
-                skipped.append(filename)
+            status, error = download_with_retries(session, filename, title, url)
+            if status == "transient":
+                transient_skipped.append(filename)
+            elif status == "content":
+                failures.append(f"{filename}: {error}")
 
-    if skipped:
-        if len(skipped) == len(COURSES):
-            raise SystemExit("All downloads failed; kept existing files.")
-        print("UNIVE calendars generated with stale files: " + ", ".join(skipped))
+    # Genuine problems (broken URL, non-ICS response, no fallback file) fail
+    # the job so the breakage is noticed.
+    if failures:
+        raise SystemExit(
+            "Calendar source problem (not a transient outage):\n  "
+            + "\n  ".join(failures)
+        )
+
+    # Transient unive.it connection drops are tolerated: existing files are
+    # kept, the job stays green, and the next run picks up fresh data.
+    if transient_skipped:
+        print(
+            "Kept existing files after transient unive.it connection failures: "
+            + ", ".join(transient_skipped)
+        )
     else:
         print("UNIVE calendars generated.")
 
