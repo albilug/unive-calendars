@@ -1,0 +1,225 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SCIENZA E TECNOLOGIA DEI MATERIALI [CT0574]
+DESCRIPTION:SCIENZA E TECNOLOGIA DEI MATERIALI [CT0574]
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+DTEND:20260930T153000
+UID:6ab25db18d453
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20260930T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261002T153000
+UID:6ab25db18d4fb
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261002T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261009T153000
+UID:6ab25db18d559
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261009T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261014T153000
+UID:6ab25db18d5b6
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261014T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261016T153000
+UID:6ab25db18d60d
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261016T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261021T153000
+UID:6ab25db18d664
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261021T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261023T153000
+UID:6ab25db18d6c4
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261023T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261104T153000
+UID:6ab25db18d71b
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261104T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261106T153000
+UID:6ab25db18d779
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261106T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261111T153000
+UID:6ab25db18d7df
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261111T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261113T153000
+UID:6ab25db18d836
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261113T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261124T190000
+UID:6ab25db18d88f
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261124T173000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261127T153000
+UID:6ab25db18d8ee
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261127T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261202T153000
+UID:6ab25db18d946
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261202T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261204T153000
+UID:6ab25db18d99d
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261204T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261216T153000
+UID:6ab25db18d9f4
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261216T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261218T153000
+UID:6ab25db18da4b
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261218T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261223T153000
+UID:6ab25db18daa2
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20261223T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270107T101500
+UID:6ab25db18daf7
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 2B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20270107T084500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270108T153000
+UID:6ab25db18db51
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20270108T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270114T101500
+UID:6ab25db18dbc1
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20270114T084500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270115T153000
+UID:6ab25db18dc18
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20270115T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270121T101500
+UID:6ab25db18dc71
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 2B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20270121T084500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270122T153000
+UID:6ab25db18dcc8
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🧱 Scienza e Tecnologia dei Materiali
+URL;VALUE=URI://www.unive.it/data/insegnamento/510160
+DTSTART:20270122T140000
+END:VEVENT
+END:VCALENDAR

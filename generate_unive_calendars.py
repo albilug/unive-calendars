@@ -10,29 +10,33 @@ RETRY_DELAY_SECONDS = 5
 USER_AGENT = "unive-calendars/1.0 (+https://github.com/albilug/unive-calendars)"
 
 COURSES = {
-    "quantum1.ics": (
-        "⚛️MQ Mod1",
-        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510134",
+    "fisica_sperimentale.ics": (
+        "📐 Fisica Sperimentale - Teoria",
+        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=574995",
     ),
-    "quantum2.ics": (
-        "⚛️MQ Mod2",
-        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510135",
+    "informatica_2_mod_2.ics": (
+        "💻 IT2 Mod.2 - Nobile",
+        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510157",
     ),
-    "radiation.ics": (
-        "☢️ Rad Mat",
-        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510154",
+    "informatica_2_mod_1.ics": (
+        "💻 IT2 Mod.1 - Tosello",
+        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510158",
     ),
-    "innovation.ics": (
-        "🚀 Innovation",
-        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510137",
+    "Fondamenti_di_Automazione.ics": (
+        "🤖 Fondamenti di Automazione",
+        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510159",
     ),
-    "electronics.ics": (
-        "🔌 Circuiti",
-        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510152",
+    "Scienza_e_Tecnologia_dei_Materiali.ics": (
+        "🧱 Scienza e Tecnologia dei Materiali",
+        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510160",
     ),
-    "lab_electronics.ics": (
-        "🧪 Lab Circuiti",
-        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510150",
+    "fisica_dello_stato_solido.ics": (
+        "💎 Fisica Stato Solido",
+        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510163",
+    ),
+    "principi_economia.ics": (
+        "💰 Principi di Economia",
+        "https://www.unive.it/data/ajax/Didattica/generaics?cache=-1&afid=510164",
     ),
 }
 

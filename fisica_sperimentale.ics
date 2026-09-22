@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:FISICA SPERIMENTALE - MOD. TEORIA [CT0566]
+DESCRIPTION:FISICA SPERIMENTALE - MOD. TEORIA [CT0566]
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+DTEND:20260929T120000
+UID:6ab25db127cf8
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20260929T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261001T134500
+UID:6ab25db127da1
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261001T121500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261006T120000
+UID:6ab25db127dfd
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261006T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261008T134500
+UID:6ab25db127e57
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261008T121500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261013T120000
+UID:6ab25db127e91
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261013T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261015T134500
+UID:6ab25db127eec
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261015T121500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261020T120000
+UID:6ab25db127f48
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261020T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261022T134500
+UID:6ab25db127fa9
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261022T121500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261027T120000
+UID:6ab25db128004
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261027T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261029T134500
+UID:6ab25db128065
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261029T121500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261103T120000
+UID:6ab25db1280c1
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261103T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261105T134500
+UID:6ab25db12811e
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261105T121500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261110T120000
+UID:6ab25db12817c
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261110T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261112T134500
+UID:6ab25db1281d7
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261112T121500
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261117T120000
+UID:6ab25db128230
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261117T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261119T134500
+UID:6ab25db128279
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:📐 Fisica Sperimentale - Teoria
+URL;VALUE=URI://www.unive.it/data/insegnamento/574995
+DTSTART:20261119T121500
+END:VEVENT
+END:VCALENDAR

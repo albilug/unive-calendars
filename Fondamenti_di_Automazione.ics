@@ -1,0 +1,243 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//hacksw/handcal//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:FONDAMENTI DI AUTOMATICA [CT0575]
+DESCRIPTION:FONDAMENTI DI AUTOMATICA [CT0575]
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-WR-TIMEZONE:Europe/Rome
+BEGIN:VEVENT
+DTEND:20260928T153000
+UID:6ab25db172e6c
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20260928T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20260929T153000
+UID:6ab25db172f00
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20260929T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261005T153000
+UID:6ab25db172f50
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261005T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261006T153000
+UID:6ab25db172fa7
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261006T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261012T153000
+UID:6ab25db172ff4
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261012T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261013T153000
+UID:6ab25db17303f
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261013T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261019T153000
+UID:6ab25db17308b
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261019T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261020T153000
+UID:6ab25db1730d8
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261020T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261026T153000
+UID:6ab25db173130
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261026T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261027T153000
+UID:6ab25db17317c
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261027T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261102T153000
+UID:6ab25db1731b6
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261102T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261103T153000
+UID:6ab25db1735af
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261103T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261109T153000
+UID:6ab25db173641
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261109T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261110T153000
+UID:6ab25db1736a0
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261110T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261116T153000
+UID:6ab25db1736fb
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261116T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261117T153000
+UID:6ab25db173762
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261117T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261123T153000
+UID:6ab25db1737be
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261123T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261124T153000
+UID:6ab25db173817
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261124T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261130T153000
+UID:6ab25db17386f
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261130T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261201T153000
+UID:6ab25db1738cb
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261201T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261214T153000
+UID:6ab25db173924
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261214T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261215T153000
+UID:6ab25db173981
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261215T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261221T153000
+UID:6ab25db1739da
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261221T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20261222T153000
+UID:6ab25db173a32
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20261222T140000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270111T120000
+UID:6ab25db173a8c
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1A Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20270111T103000
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20270113T120000
+UID:6ab25db173ae5
+DTSTAMP:20260922T105129
+LOCATION:Aula Delta 1B Campus scientifico via Torino (edificio Delta)
+SUMMARY:🤖 Fondamenti di Automazione
+URL;VALUE=URI://www.unive.it/data/insegnamento/510159
+DTSTART:20270113T103000
+END:VEVENT
+END:VCALENDAR
